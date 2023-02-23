@@ -1,0 +1,5 @@
+Here's brief intro for what this code can do:
+
+This is a basic terminal based API,which can perform simple functions like put,post,get or delete 
+It uses requests module from python to handle these requests . It also let's you modify headers of the request or add parameters in the request.
+It creates a file which stores all the URL's which were previously used to get requests and response to these for the same.
