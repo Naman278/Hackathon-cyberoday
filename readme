@@ -1,9 +1,6 @@
 • Created a Python script that uses the Python Requests package to send HTTP queries.
-• The user is prompted by the script to provide the URL and request method (such as GET, POST,
-PUT, or DELETE).
-• Also, the user has the option to edit headers and parameters and supply information for POST and
-PUT requests.
+• The user is prompted by the script to provide the URL and request method (such as GET, POST, PUT, or DELETE).
+• Also, the user has the option to edit headers and parameters and supply information for POST andPUT requests.
 • The script sends the HTTP request and receives the response using the requests module.
 • A text file is used to hold the response of the requested URL.
-• When JSON parsing fails, the script handles exceptions and prints the response’s headers, content,
-and body to the console.
+• When JSON parsing fails, the script handles exceptions and prints the response’s headers, content, and body to the console.
